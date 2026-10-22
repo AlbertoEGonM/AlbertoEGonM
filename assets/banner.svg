@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Alberto González — Full Stack Developer</title>
+  <desc id="desc">Minimal purple banner with Alberto's name and web development focus.</desc>
+  <rect width="1200" height="300" rx="20" fill="#161022"/>
+  <rect x="52" y="62" width="5" height="176" rx="2.5" fill="#A78BFA"/>
+  <circle cx="1110" cy="150" r="104" fill="none" stroke="#392650" stroke-width="1.5"/>
+  <circle cx="1110" cy="150" r="74" fill="none" stroke="#62418A" stroke-width="1.5"/>
+  <text x="84" y="96" font-family="Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="4" fill="#C4B5FD">FULL STACK DEVELOPMENT</text>
+  <text x="80" y="161" font-family="Segoe UI,Arial,sans-serif" font-size="49" font-weight="650" fill="#FAF7FF">Alberto González</text>
+  <text x="84" y="208" font-family="Segoe UI,Arial,sans-serif" font-size="21" fill="#C7BFD3">Web applications · Backend · Thoughtful interfaces</text>
+</svg>
