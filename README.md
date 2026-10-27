@@ -6,7 +6,7 @@
   <a href="#español">Español</a> · <a href="#english">English</a> ·
   <a href="https://github.com/AlbertoEGonM?tab=repositories">Repositories</a> ·
   <a href="https://alberto-gonzalez-portfolio.gonzalezmartin394637.chatgpt.site">Sitio Web</a> ·
-  <a href="https://alberto-gonzalez-portafolio.gonzalezmartin394637.chatgpt.site">Portafolio</a>
+  <a href="https://albertoegonm.github.io/">Portafolio</a>
 </p>
 
 ## Español
